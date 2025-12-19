@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rabyagami
-- 👀 I’m interested in Data
-- 🌱 I’m currently learning in Big Data Analytics
+- 👀 Research scope: Time Series Classification, ML, FCM.
+- 🌱 I’m currently learning in Engineering and Technical Science
 - 💞️ I’m looking to collaborate on any platforms
 - 📫 How to reach me raby.yagami@gmail.com
 
